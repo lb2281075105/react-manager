@@ -1,4 +1,4 @@
 
 # react-manager
 
-1. yarn add react-router-dom
+``` 1. yarn add react-router-dom ```
