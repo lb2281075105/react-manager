@@ -9,7 +9,7 @@
 
 ``` 4. yarn add babel-plugin-import ```
 
-``` 5. yarn add less@3.10.3  less-loader@5.0.0 ??:??????less-loader@5.0.0```
+``` 5. yarn add less@3.10.3  less-loader@5.0.0  wanring: less-loader@5.0.0```
 
 ``` 6.  ```
 

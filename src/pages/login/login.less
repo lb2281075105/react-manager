@@ -1,0 +1,37 @@
+.loginBack{
+  background-color: red;
+  height: 100%;
+  background-image: url("./images/back.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+  overflow: hidden; // 解决高度塌陷
+  .loginPane{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #CC9933;
+    background-color: rgba(0,0,0,0.5);
+    margin: 150px auto;
+    padding: 15px 10px;
+    .top{
+      height: 50px;
+      text-align: center;
+      img{
+        height: 50px;
+        vertical-align: middle;
+      }
+      span{
+        height: 50px;
+        color: #FFF;
+        vertical-align: middle;
+      }
+    }
+  }
+  .form{
+    //height: 250px;
+    margin-top: 20px;
+    .loginBtn{
+      width: 100%;
+    }
+  }
+}
